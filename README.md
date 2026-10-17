@@ -1,21 +1,22 @@
-# Engenharia Mecânica - UFPR - Jairo
-Aluno: Jairo | Professora: Helena (Mestra e Dra. em Engenharia Mecânica) | Início: Outubro/2025 | Curitiba
+# Engenharia Mecanica - Estudos Independentes - Jairo
+**Baseado na grade curricular publica da UFPR**
 
-## 🎯 Objetivo
-Concluir a graduação em Engenharia Mecânica com portfólio organizado e histórico no GitHub.
+## AVISO LEGAL IMPORTANTE
+Este repositorio e **ESTUDO INDEPENDENTE e NAO OFICIAL da UFPR**.
+- Nao sou aluno matriculado da UFPR
+- Nao represento a UFPR
+- Este material e para estudo pessoal, seguindo as diretrizes publicas da grade curricular de Engenharia Mecanica da UFPR disponivel publicamente
+- Uso educacional e sem fins lucrativos
+- Todos os calculos sao de responsabilidade do autor para fins de aprendizado
 
-## 📁 Estrutura do Repositório
-- **01-materiais** -> PDFs, apostilas, livros e cronogramas
-- **02-aulas** -> Anotações e resumos de cada disciplina
-- **03-projetos** -> Cálculos, desenhos e projetos de mecânica
+## Objetivo
+Aprender Engenharia Mecanica do zero de forma organizada, usando como referencia a ementa publica da UFPR, documentando a evolucao no GitHub.
 
-## 📈 Progresso
-- [x] Aula 01: Estrutura de 3 pastas criada
-- [x] Aula 02: Primeiro PDF enviado (23 commits)
-- [x] Aula 03: README profissional para Profa Helena
+## Estrutura
+- 01-fundamentos
+- 02-aulas (ex: AULA-04-Calculo-Tensao)
+- 03-projetos
 
-## 🔧 Tecnologias e Normas
-GitHub, Markdown, ABNT NBR, NR-12, NR-13, ASME VIII, ISO 9001, ASTM
+Cada PDF/MD contem cabecalho: "ESTUDO INDEPENDENTE - Base UFPR - Nao oficial UFPR"
 
----
-Portfólio acadêmico do aluno Jairo - UFPR
+Jairo - Curitiba - 17/10/2026
